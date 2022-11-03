@@ -1,6 +1,6 @@
- <p align = "center">
+ <h1 align = "center">
 ## Hi! My name is Lucas Vicente 👋
- </p>
+ </h1>
 
  - 🧑‍🎓 Studying software analysis and development
  - 📚 Studying English on your own
