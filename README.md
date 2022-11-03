@@ -1,11 +1,13 @@
 
-## Hi! My name is Lucas Vicente 👋
+## <h1 align = "center" >Hi! My name is Lucas Vicente 👋</h1>
 
-
-- 🧑‍🎓 Studying software analysis and development 
+<p align= "center">
+- 🧑‍🎓 Studying software analysis and development
+  <br>
 - 📚 Studying English on your own 
+  <br>
 - 🖥 🔜 💻 Migrating from the infrastructure area to the programming area 
-  
+ </p>
   <br>
 
   
@@ -13,7 +15,7 @@
 
  
 
-
+<p align= "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,c,mysql,git,github,linux"/>
   </a>
@@ -23,7 +25,7 @@
 <hr>
 
 <div>
- <p>
+ <p align= "center">
   <a href="https://www.linkedin.com/in/lucas-vicente-564244174/" tang="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" tang="_blank" </img> </a>
   </p>
   
