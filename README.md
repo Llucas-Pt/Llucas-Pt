@@ -1,13 +1,13 @@
 
 ## <h1 align = "center" >Hi! My name is Lucas Vicente 👋</h1>
 
-<p align= "center">
-- 🧑‍🎓 Studying software analysis and development
-  <br>
-- 📚 Studying English on your own 
-  <br>
-- 🖥 🔜 💻 Migrating from the infrastructure area to the programming area 
- </p>
+
+  
+                            - 🧑‍🎓 Studying software analysis and development 
+                            - 📚 Studying English on your own 
+                            - 🖥 🔜 💻 Migrating from the infrastructure area to the programming area
+ 
+
   <br>
 
   
