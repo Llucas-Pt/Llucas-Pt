@@ -1,5 +1,5 @@
 
-<h1 align = "center" >Hi! My name is Lucas 🖖🏼</h1>
+<h1 align = "center" >Hello! My name is Lucas 🖖🏼</h1>
 
 
                             - 💻 Migrating from the infrastructure area to the programming area
