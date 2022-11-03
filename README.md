@@ -2,9 +2,11 @@
 ## Hi! My name is Lucas Vicente 👋
  </h1>
 
- - 🧑‍🎓 Studying software analysis and development
- - 📚 Studying English on your own
- - 🖥 🔜 💻 Migrating from the infrastructure area to the programming area
+  <p align = "center">- 🧑‍🎓 Studying software analysis and development </p>
+  <p align = "center">- 📚 Studying English on your own </p>
+  <p align = "center">- 🖥 🔜 💻 Migrating from the infrastructure area to the programming area </p>
+  
+  <br>
 
   
 </div>
