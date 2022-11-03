@@ -13,15 +13,13 @@
   
 </div>
 
- 
-
 <p align= "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,c,mysql,git,github,linux"/>
   </a>
  
-
 </div>
+
 <hr>
 
 <div>
