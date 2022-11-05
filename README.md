@@ -1,6 +1,5 @@
 
 <h1 align = "center" >Hello! My name is Lucas 🖖🏼</h1>
- <img src= "https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width = "400"  align= "right" alt = "conding" bordradil / > 
 
 <p >  - 💻 Migrating from the infrastructure area to the programming area </P>
 <p >  - 🧑‍🎓 Studying software analysis and development </p> 
