@@ -1,6 +1,6 @@
 
 <h1 align = "center" >Hello! My name is Lucas 🖖🏼</h1>
-<img src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b97f5428262707.5637231a3c26a.gif" alt = "conding" align="right"/ > 
+<img src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b97f5428262707.5637231a3c26a.gif" width = "400" alt = "conding" align="right"/ > 
 
 <p >  - 💻 Migrating from the infrastructure area to the programming area </P>
 <p >  - 🧑‍🎓 Studying software analysis and development </p> 
