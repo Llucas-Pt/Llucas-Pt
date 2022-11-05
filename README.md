@@ -7,16 +7,10 @@
 <p >   - 📚 Studying English on your own </p> 
  
 </div>
- 
-<div>
 
-</div>
-  <h3>
-    Languages and tools </h3>
-  <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,linux"/>
-     
-  </a>
+<div>
+  <h3>Languages and tools </h3>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,linux"/></a>
  
 </div>
 
