@@ -1,9 +1,9 @@
 
 <h1 align = "center" >Hello! My name is Lucas 🖖🏼</h1>
 
-<p >  - 💻 Migrating from the infrastructure area to the programming area </P>
-<p >  - 🧑‍🎓 Studying software analysis and development </p> 
-<p >  - 📚 Studying English on your own </p> 
+- 💻 Migrating from the infrastructure area to the programming area 
+- 🧑‍🎓 Studying software analysis and development 
+- 📚 Studying English on your own 
  
 </div>
 
