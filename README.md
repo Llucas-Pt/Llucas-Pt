@@ -9,7 +9,7 @@
 
 <div>
   <h3>Languages and tools </h3>
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git,github,linux"/></a>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,linux"/></a>
 </div>
 
 <div>
