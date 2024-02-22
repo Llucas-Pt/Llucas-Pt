@@ -2,16 +2,14 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Oi!+Meu+Nome+é+Lucas+%F0%9F%96%96)](https://git.io/typing-svg)
 
-
- <p>🧑‍🎓 Formando análise e desenvolvimento de software </p>
- <p>💻 Migrando da área de infraestrutura para a área de programação </p>
- 
-</div>
-
-<br>
 <div>
   <h3 > Tecnologias </h3>
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,git,github,mysql,postgres,postman,linux"/></a>
+   <h3 > Front-end </h3>
+ <p>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"></a></p>
+
+  <h3 > Back-End </h3>
+ <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,git,github,mysql,postgres,postman,linux"/></a></p>
 </div>
 
 <div>
