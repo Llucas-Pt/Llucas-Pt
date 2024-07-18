@@ -15,5 +15,5 @@
 <div>
  <h3 > Contatos </h3>
   <a href="https://www.linkedin.com/in/lucas-vicente-564244174/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </img>  </a>
-   <a href="https://llucas-pt.github.io/Portfolio/" target="_blank"> <img src = "https://img.shields.io/badge/Portifolio-0077B5?style=for-the-badge&logo=&logoColor=white"/img>  </a>
+   <a href="https://llucas-pt.github.io/Portfolio/" target="_blank"> <img src = "https://img.shields.io/badge/Portifolio-0077B5?style=for-the-badge&logo=&logoColor=white"> </img>  </a>
  </div>
