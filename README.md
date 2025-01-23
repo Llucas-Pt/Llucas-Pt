@@ -9,7 +9,7 @@
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"></a></p>
 
   <h3 > Back-End </h3>
- <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,postgres,docker,postman,git,jest"/></a></p>
+ <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,cs,mysql,postgres,docker,postman,git,jest"/></a></p>
 </div>
 
 <div>
