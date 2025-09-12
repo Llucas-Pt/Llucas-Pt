@@ -5,7 +5,7 @@
 
 
 
-<div >
+<div align="center">
 
   <h3 >  Technologies </h3>
 
@@ -45,7 +45,7 @@
 <div >
 
   </div>
-<div >
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-vicente-564244174/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -65,7 +65,7 @@
 
 
 
-<div >
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Llucas-Pt&theme=dark&hide_border=false" height="220" alt="streak graph"/>
 </div>
 
