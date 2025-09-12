@@ -1,4 +1,6 @@
-<h1 align="center">Hey👋 Tudo certo?</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
@@ -6,6 +8,7 @@
 
 <div align="center">
 
+  <h3 > technologies </h3>
 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="Html logo"  />
   <img width="12" />
@@ -31,7 +34,7 @@
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 
-  <h3 > Em Desenvolvimento </h3>
+  <h3 > In Development </h3>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -39,6 +42,7 @@
     <img width="12" />
 </div>
 
+<p></p>
 <div align="center">
 </div>
 <div align="center">
@@ -46,29 +50,29 @@
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
-      alt="LinkedIn"
-    />
+      alt="LinkedIn"/>
+
   <a href="https://llucas-pt.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/Portifolio-0077B5?style=for-the-badge&logo=&logoColor=white"
+      src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=&logoColor=white"
       height="25"
       alt="Portifolio"
       style="margin-left:6px;"
     />
   </a>
 </div>
+<p></p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
