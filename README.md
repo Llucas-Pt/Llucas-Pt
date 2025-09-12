@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <h3 >  technologies </h3>
+  <h3 >  Technologies </h3>
 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="Html logo"  />
   <img width="12" />
