@@ -32,13 +32,15 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    
 
   <h3 > In Development </h3>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-    <img width="12" />
+
 </div>
 
 <p></p>
