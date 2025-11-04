@@ -67,11 +67,4 @@
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Llucas-Pt&theme=dark&hide_border=false" height="220" alt="streak graph"/>
-</div>
-
-
-
-
 
